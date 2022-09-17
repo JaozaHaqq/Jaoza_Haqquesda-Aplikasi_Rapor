@@ -23,7 +23,7 @@ For i = 1 to jumlah_siswa
     print "Selamat telah mengikuti kegiatan di semester ini, anda mendapatkan " + total + " sehingga 
             indeks nilai anda adalah " + indeks
     
-    if total < 65
+    if total lower than 65
         print "Mohon maaf anda TIDAK LULUS"
     else 
         print "Selamat anda LULUS"
